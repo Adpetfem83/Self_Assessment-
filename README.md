@@ -12,6 +12,8 @@ Presentation; I am very excited to see what all of us have been dealing with for
 
 
 
+## Team Assessment
+
 
 Challenges / Difficulties
 Difficulty: Sharing and accessing the data.
@@ -33,4 +35,8 @@ Utilizing the machine learning model:
 Neural network ML was not the best option for what we needed: 
 
 Solution: Mr. Dallin and Mr. Alex assisted us and came to our rescue, and we eventually used supervised machine learning which was efficient.
-![image](https://user-images.githubusercontent.com/108506115/206754050-e8b4c868-bd32-499e-8426-0d0c58a3a5de.png)
+
+
+
+## Summary of the Project
+
