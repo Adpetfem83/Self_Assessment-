@@ -44,9 +44,9 @@ Solution: Mr. Dallin and Mr. Alex assisted us and came to our rescue, and we eve
 
 ## Summary of the Project
 The summary of the project that could be used on a LinkedIn profile, in an interview or cover letter, or as an elevator pitch, including all of the following:
-#. Topic itself which is very relevant and the questiones the project answered.
+#. Topic itself which is very relevant and the questions the project answered.
 
-#. The Machine module used, We combined Neural Networks to train and test the accuracy of our model which was very good at 98%, then we used Supervised Machine Learning to address the objectives of the project.
+#. The Machine module used, we first used Neural Networks to train and test the accuracy of our model which was very good at 98%, then we used Supervised Machine Learning to address the objectives of the project.
 
 #. The results of the analysis using Tableau, Dashboard and google slides were really impressive.
 
