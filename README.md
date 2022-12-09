@@ -20,21 +20,21 @@ Concerning the project, each of member of the group contributed immensely to the
 ## Team Assessment
 I really enjoyed working with my group members and we learned a great deal of skills by working together most especially myself. However, we encountered some difficulties along the way and we were able to figured out some of those challenges. With Mr Alex and Mr Dallin helped us significantly in some of the issues the team was unable to figure out. Some of the challenges incude:
 
-## Difficulty: Sharing and accessing the data.
+#. Difficulty: Sharing and accessing the data.
 Our combined raw dataset was over 1GB. This made storing data in the cloud difficult or impossible without paying due to uploading limits. 
 Solution: Some of us changed or deleted our bank details in the AWS to stop unauthorized charges.
 
-## Difficulty: Cleaning the data.
+#. Difficulty: Cleaning the data.
 Half of the raw data contained null values or syntax errors and was not used as we could not find a way to clean a majority of it efficiently.
 
 Solution; Although the data was cleaned, but not efficiently cleaned as we wanted it. Moreover, we were able to apply some cleaning codes to make sure the data was very useful.
 
-## Joining tables in PgAdmin and Postgresql:
+#. Joining tables in PgAdmin and Postgresql:
 Our datasets’ indexes were the company names. As there were many duplicate values, we did not have Primary Keys, which made joining tables difficult. 
 
 Solution: As a workaround, we gave each row its own unique index as an integer.
 
-## Utilizing the machine learning model:
+#. Utilizing the machine learning model:
 The team discovered very late that Neural network ML was not the best option for what we needed: 
 
 Solution: Mr. Dallin and Mr. Alex assisted us and came to our rescue, and we eventually used supervised machine learning which was efficient.
