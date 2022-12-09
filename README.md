@@ -1,5 +1,9 @@
 # Self_Assessment-
 
+First and foremost, I am really happy and elated that I was to withstand the rigor and intensiveness of the program in spite of many challenges I had right from the beginning and up to the near end of this great program. Some of the challenges I had initially ranged from being a new beginner and a novice when it comes to programming languages, health challenges and also emotional trauma from health challenges and other personal issues. I did not come to the program with the right frame of mind due to all these issues. At some points of this program, I felt like I should drop and join the the next badge that just started in November. Glory be to Almighty God, who gave me the opportunity to survive some of those challenges and I am here today giving this great testimonies.
+
+In terms of the program, it was a rigorous and a highly intensive one. I moved from being a pure novice and a beginner to a little bit above average. There are still some areas to improve on now that I am not under pressure to submit weekly assignment. I think this is the right time for me to review and re-evaluate myself from the start of the program and to the end in order for me to be confident and become very dangerous in coding and programmings.
+
 
   Cleaning the data: cleaning the residual null set values in the two datasets was the first priority and we were able to achieve that.
 
